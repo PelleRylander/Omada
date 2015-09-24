@@ -1,0 +1,48 @@
+1.5
+- Added WooCommerce 2.3.10 compatibility
+- Added option for singular labels to countdown shortcode
+- Updated Visual Composer to 4.5.3
+- Updated Layer Slider to 5.4.0
+- Updated PrettyPhoto to 3.1.6
+- Deleted unnecessary css classes
+- Enabled Yoast SEO page analysis functionality as conflict between Yoast SEO and Visual Composer is solved in new VC version
+- Fixed bug with page transitions and Yoast SEO plugin
+- Fixed bug with Yoast SEO plugin and meta boxes not saving values. Page analysis functionality has been disabled due to coding issue in plugin
+- Fixed issue with Select Slider and loading image not appearing
+- Fixed issue with Single Image shortcode Image style property
+- Fixed bug with Select Carousel - Order By option in shortcode
+- Fixed bug with Image Gallery and prettyPhoto
+
+1.4
+- Added WooCommerce 2.3.8 compatibility
+- Updated TGM Plugin Activation class for security vulnerability
+- Updated Visual Composer to version 4.4.4
+- Fixed Select Seo
+- Fixed Coming Soon functionality
+- Fixed bug with Select Carousel function in WordPress 4.2
+- Solved issue with ajax and Edit Page button in admin bar
+
+1.3
+- Updated Font Awesome to 4.3.0
+- Fixed accordions and tabs on single product pages
+- Fixed portfolio masonry filter responsiveness
+- Fixed scroll animation issues on elements on page load
+- Fixed bug with Contact Form 7 and Vertical Split Screen
+- Fixed leaping ajax transitions on mobile devices
+
+1.2
+- Added WooCommerce 2.3.6 compatibility
+- Updated Visual Composer to 4.4.3
+- Fixed bug with header alignment when Passepartout is off
+- Fixed min height bug with Passepartout and ajax page transitions enabled
+- Fixed ajax page reloading when clicked on current menu item
+- Fixed title animation bug with ajax page transitions
+- Fixed scroll functionality with Vertical Split Slider and ajax page transitions on touch devices
+- Fixed bug with anchor scroll and transparent fixed menu
+
+1.1
+- Added WooCommerce 2.3.4 compatibility
+- Improved Select Slider responsiveness on small screens
+- Included generating static assets from set theme options
+- Fixed bug with Show Comments Option on single post pages
+- Fixed bug with blog list responsive while using vertical menu

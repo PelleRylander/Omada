@@ -1,0 +1,39 @@
+
+
+aside.vertical_menu_area.with_scroll {
+  border-right: 1px solid #eee;
+}
+.q_logo_vertical{height:150px !important;}
+
+
+span.qode_icon_stack{
+font-size:10px !important;
+}
+
+.vertical_menu ul {
+    padding-left: 20px;
+}
+
+aside.vertical_menu_area {
+    width: 250px;
+}
+
+.vertical_menu_enabled .q_slider, .vertical_menu_enabled .full_width, .vertical_menu_enabled .content .container, .vertical_menu_enabled .title_outer, .vertical_menu_enabled footer {
+    padding-left: 250px;
+}
+
+.vertical_logo_wrapper img {
+    max-height: 50%;
+    padding-left: 10px;
+}
+
+nav.vertical_menu > ul > li > a, .vertical_menu.vertical_menu_side ul li a {
+    line-height: 20px;
+}
+
+.cq-accordion div.accordion-content {
+    color: rgba(48,69,92,.8);
+    font-size: 1.1em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
